@@ -1,0 +1,23 @@
+.header{
+    text-align:center;
+    padding:60px;
+}
+.paragraph{
+   padding:30px 150px;
+   background-color:#F9FAFC;
+}
+.paragrap1{
+    padding:50px 260px 10px;
+    line-height: 2.0;
+}
+
+.paragrap2{
+    padding:20px 260px 10px;
+    line-height: 2.0;
+}
+a{
+    color:blue;
+}
+hr{
+    width:60%;
+}
